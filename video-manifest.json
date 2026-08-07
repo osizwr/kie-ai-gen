@@ -1,0 +1,317 @@
+[
+  {
+    "i": 1,
+    "video": "videos/1 - BROLL.mp4",
+    "image": "images/1 - BROLL.png",
+    "camera_motion": "dolly_out",
+    "motion_prompt": "A few light snowflakes fall gently across the scene, and the warm porch light flickers faintly. The camera has a very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 2,
+    "video": "videos/2 - BROLL.mp4",
+    "image": "images/2 - BROLL.png",
+    "camera_motion": "dolly_out",
+    "motion_prompt": "The empty cash register remains still, with a faint tremble in the dried plants. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 3,
+    "video": "videos/3 - BROLL.mp4",
+    "image": "images/3 - BROLL.png",
+    "camera_motion": "dolly_in",
+    "motion_prompt": "Hands slightly lower the onion as water bubbles in the pot and faint steam rises. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 5,
+    "video": "videos/5 - BROLL.mp4",
+    "image": "images/5 - BROLL.png",
+    "camera_motion": "dolly_out",
+    "motion_prompt": "The family chews slowly with subtle posture shifts, as spoons gently move in their bowls. Leaves rustle faintly outside the window. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 7,
+    "video": "videos/7 - BROLL.mp4",
+    "image": "images/7 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "Dust motes drift faintly in the ambient light. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 11,
+    "video": "videos/11 - BROLL.mp4",
+    "image": "images/11 - BROLL.png",
+    "camera_motion": "dolly_out",
+    "motion_prompt": "The lower hand scrapes the spoon downward, pushing thick yellow mush from the pot into the pan. Faint steam rises from the warm food while the upper hand adjusts its grip slightly. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 12,
+    "video": "videos/12 - BROLL.mp4",
+    "image": "images/12 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The hands slightly adjust their grip, causing the glass jars to tilt and clink faintly over the rusty barrel. Inside the bin, a loose piece of plastic rustles in a subtle breeze. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 15,
+    "video": "videos/15 - BROLL.mp4",
+    "image": "images/15 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "The jar remains still, with subtle shifts in light reflecting off the glass. Outside, bare branches sway minimally in a faint breeze. Very slight handheld camera drift and minor bob, as if held unsteadily."
+  },
+  {
+    "i": 19,
+    "video": "videos/19 - BROLL.mp4",
+    "image": "images/19 - BROLL.png",
+    "camera_motion": "dolly_out",
+    "motion_prompt": "The booklet and pencil remain perfectly still. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 20,
+    "video": "videos/20 - BROLL.mp4",
+    "image": "images/20 - BROLL.png",
+    "camera_motion": "dolly_right",
+    "motion_prompt": "The hands apply slight twisting pressure to tighten the metal lid, with fingers flexing minimally. Tiny bubbles shift slowly inside the jar's liquid. The camera features a very slight handheld drift and small bob."
+  },
+  {
+    "i": 23,
+    "video": "videos/23 - BROLL.mp4",
+    "image": "images/23 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "Foreground leaves sway gently in a light breeze, and the mist in the valleys drifts slowly. Heavy gray clouds shift faintly overhead. Very slight handheld camera drift and small bob."
+  },
+  {
+    "i": 25,
+    "video": "videos/25 - BROLL.mp4",
+    "image": "images/25 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "The leather book sits still on the wood, with a barely perceptible flutter on the edge of an exposed paper page. Faint dust motes drift in the ambient light. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 28,
+    "video": "videos/28 - BROLL.mp4",
+    "image": "images/28 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The hands tense and pull, causing the heavy canvas bag to shift and its fabric to strain slightly. Faint dust floats in the shadows. Very slight handheld camera drift and bob."
+  },
+  {
+    "i": 33,
+    "video": "videos/33 - BROLL.mp4",
+    "image": "images/33 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The dusty jars remain completely still on the shelf while a few tiny dust motes float faintly in the stagnant air. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 37,
+    "video": "videos/37 - BROLL.mp4",
+    "image": "images/37 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The hand slightly adjusts its grip on the white block hovering over the bin. The plastic trash bag liner rustles faintly. Very slight handheld camera drift and bob."
+  },
+  {
+    "i": 41,
+    "video": "videos/41 - BROLL.mp4",
+    "image": "images/41 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The gloved hand shifts slightly, causing a few corn kernels to settle inside the pouch. Faint dust drifts in the out-of-focus background. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 42,
+    "video": "videos/42 - BROLL.mp4",
+    "image": "images/42 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The hand holding the skillet shifts slightly, allowing the airborne corn kernels to tumble back into the pan. The blue and orange gas flames flicker steadily beneath the cast iron. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 43,
+    "video": "videos/43 - BROLL.mp4",
+    "image": "images/43 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "Faint wisps of heat and smoke rise as a few roasted seeds subtly shift in the pan. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 45,
+    "video": "videos/45 - BROLL.mp4",
+    "image": "images/45 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The right hand steadily turns the crank, causing crushed grain to continuously fall from the metal spout into the bowl. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 48,
+    "video": "videos/48 - BROLL.mp4",
+    "image": "images/48 - BROLL.png",
+    "camera_motion": "dolly_in",
+    "motion_prompt": "The cereal boxes remain completely still on the shelves, with only faint shifts in overhead light reflecting off the glossy cardboard. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 49,
+    "video": "videos/49 - BROLL.mp4",
+    "image": "images/49 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The plastic bag of beans remains still, with a faint shift in light reflecting off the wrinkles. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 53,
+    "video": "videos/53 - BROLL.mp4",
+    "image": "images/53 - BROLL.png",
+    "camera_motion": "dolly_in",
+    "motion_prompt": "Water flows steadily from the pitcher, splashing gently into the dry beans. The person's torso shifts slightly with natural breathing. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 60,
+    "video": "videos/60 - BROLL.mp4",
+    "image": "images/60 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The sealed bag remains still while faint light shifts across the plastic. Tiny dust motes drift in the air. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 61,
+    "video": "videos/61 - BROLL.mp4",
+    "image": "images/61 - BROLL.png",
+    "camera_motion": "dolly_right",
+    "motion_prompt": "The right hand steadily cranks the wheel while a continuous stream of flour falls from the spout, creating faint dust. The camera has a very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 65,
+    "video": "videos/65 - BROLL.mp4",
+    "image": "images/65 - BROLL.png",
+    "camera_motion": "dolly_out",
+    "motion_prompt": "The hanging strings of apple slices sway and twist slightly in a faint draft. Very slight handheld camera drift and bob."
+  },
+  {
+    "i": 66,
+    "video": "videos/66 - BROLL.mp4",
+    "image": "images/66 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The right hand gently presses the knife downward to complete the slice while the left hand holds the apple steady. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 67,
+    "video": "videos/67 - BROLL.mp4",
+    "image": "images/67 - BROLL.png",
+    "camera_motion": "dolly_in",
+    "motion_prompt": "The apple slices sit completely motionless on the oven rack. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 70,
+    "video": "videos/70 - BROLL.mp4",
+    "image": "images/70 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The hand slightly pushes the spatula to shift the frying apple slices. The fat bubbles actively around the fruit while faint steam rises. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 74,
+    "video": "videos/74 - BROLL.mp4",
+    "image": "images/74 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The hands gently push and turn the shredded cabbage, mixing the salt into the leaves. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 75,
+    "video": "videos/75 - BROLL.mp4",
+    "image": "images/75 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The fist presses downward slightly, making the brine ripple and pool around the knuckles. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 79,
+    "video": "videos/79 - BROLL.mp4",
+    "image": "images/79 - BROLL.png",
+    "camera_motion": "dolly_in",
+    "motion_prompt": "Dust motes drift faintly in the light from the left window while the wooden barrels remain completely still. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 82,
+    "video": "videos/82 - BROLL.mp4",
+    "image": "images/82 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "Tall grass on the roof and surrounding leaves sway gently in a light breeze, shifting the dappled shadows. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 86,
+    "video": "videos/86 - BROLL.mp4",
+    "image": "images/86 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "Faint dust motes drift slowly in the light from the basement window. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 87,
+    "video": "videos/87 - BROLL.mp4",
+    "image": "images/87 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "A faint breeze slightly stirs the grass around the static pipe. Very slight handheld camera drift and a small bob."
+  },
+  {
+    "i": 91,
+    "video": "videos/91 - BROLL.mp4",
+    "image": "images/91 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 92,
+    "video": "videos/92 - BROLL.mp4",
+    "image": "images/92 - BROLL.png",
+    "camera_motion": "dolly_right",
+    "motion_prompt": "The thick dark syrup continues a slow, steady drizzle from the spoon, pooling onto the biscuit as the holding hand trembles faintly. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 95,
+    "video": "videos/95 - BROLL.mp4",
+    "image": "images/95 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "Dust motes drift slowly through the light spilling from the right window. The camera has a very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 97,
+    "video": "videos/97 - BROLL.mp4",
+    "image": "images/97 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "The curled edges of the top handwritten pages flutter imperceptibly in a faint draft. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 100,
+    "video": "videos/100 - BROLL.mp4",
+    "image": "images/100 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The water in the metal cup ripples faintly, reflecting minor shifts in ambient room light. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 101,
+    "video": "videos/101 - BROLL.mp4",
+    "image": "images/101 - BROLL.png",
+    "camera_motion": "jib_down",
+    "motion_prompt": "The hands press the wooden dowel downward into the dough, then lift slightly to move to the next spot. The dough softly yields to the pressure. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 102,
+    "video": "videos/102 - BROLL.mp4",
+    "image": "images/102 - BROLL.png",
+    "camera_motion": "dolly_right",
+    "motion_prompt": "The crackers sit motionless on the baking pan as ambient light subtly shifts across the dark metal. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 108,
+    "video": "videos/108 - BROLL.mp4",
+    "image": "images/108 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "The pile of coarse salt remains entirely static on the wooden table. The camera exhibits a very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 112,
+    "video": "videos/112 - BROLL.mp4",
+    "image": "images/112 - BROLL.png",
+    "camera_motion": "dolly_right",
+    "motion_prompt": "The pink salt remains completely still. Very slight handheld camera drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 114,
+    "video": "videos/114 - BROLL.mp4",
+    "image": "images/114 - BROLL.png",
+    "camera_motion": "jib_up",
+    "motion_prompt": "The hands gently tilt the jar, letting a few coarse granules tumble onto the metal pan as the blue digital numbers fluctuate. Subtle natural light shifts across the wooden workbench. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 116,
+    "video": "videos/116 - BROLL.mp4",
+    "image": "images/116 - BROLL.png",
+    "camera_motion": "dolly_left",
+    "motion_prompt": "A few loose grains of salt drop from the stiff, drying fish, and faint dust motes drift in the side light. Very slight handheld drift and a small bob, as if held by an older person."
+  }
+]

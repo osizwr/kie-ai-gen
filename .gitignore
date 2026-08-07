@@ -1,0 +1,10 @@
+.venv/
+.env
+images/
+videos/
+__pycache__/
+*.part
+*.log
+images/
+videos/
+Roy Hensley 1/
