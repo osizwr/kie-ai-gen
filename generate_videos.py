@@ -52,8 +52,6 @@ CAMERA_MOTIONS = [
     "dolly_right",
     "dolly_in",
     "dolly_out",
-    "jib_up",
-    "jib_down",
 ]
 
 CONCURRENCY = 3

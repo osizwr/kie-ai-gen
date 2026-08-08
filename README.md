@@ -82,7 +82,7 @@ prompts.json
      │
      ├── generate_images.py ──────────► images/          (IMAGE, SPLIT, BROLL beats)
      │
-     ├── extract_avatar_prompts.py ───► avatar-prompt.json   (AVATAR beats)
+     ├── extract_avatar_prompts.py ───► avatar-prompt.json   (AVATAR + SPLIT beats)
      │
      └── BROLL beats
               │
@@ -160,16 +160,31 @@ Log: `generate_images.log`.
 
 Reads `prompts.json`, writes `avatar-prompt.json`.
 
-Pulls every AVATAR beat's narration into one file with its timings:
+Pulls every **AVATAR** and **SPLIT** beat's narration into one file with its
+timings:
 
 ```json
 [
-  { "i": 194, "t_start": 1124.7, "t_end": 1131.6, "narration": "Number one. Rendered fat..." }
+  {
+    "i": 0,
+    "t_start": 0,
+    "t_end": 5,
+    "type": "AVATAR",
+    "narration": "Winter, nineteen eighteen. The coldest stretch anybody..."
+  }
 ]
 ```
 
-Timings are kept so the lines can be lined back up with the edit. AVATAR beats
-with empty narration are reported and skipped. No API key, no cost, instant.
+Timings are kept so the lines can be lined back up with the edit, and `type` is
+kept because the two kinds are read differently downstream — an AVATAR beat is
+narration only, while a SPLIT beat also has a picture in `images/`. Beats with
+empty narration are reported and skipped. Order follows `prompts.json`.
+
+Which types get pulled is the `TARGET_TYPES` tuple at the top of the file — add
+`"IMAGE"` or `"BROLL"` there to widen it.
+
+No API key, no cost, instant. Always rewrites the whole file, so re-run it any
+time `prompts.json` changes.
 
 ### Step 3 — `generate_motion_prompts.py`
 
@@ -229,8 +244,10 @@ Fixed settings:
 | `generate_audio` | `false` (the model defaults this to **true**) |
 | `image` | starting frame only — no `last_frame_image` |
 
-**Camera motion** is chosen at random per clip from `dolly_left`,
-`dolly_right`, `dolly_in`, `dolly_out`, `jib_up`, `jib_down` — never the same
+**Camera motion** is chosen at random per clip from the `CAMERA_MOTIONS` list
+at the top of the file — currently `dolly_left`, `dolly_right`, `dolly_in`,
+`dolly_out`. The model also accepts `jib_up`, `jib_down`, `static`,
+`focus_shift` and `none` if you want them back. Never the same
 move on two consecutive beats, since neighbouring identical moves read as a
 mistake in the edit. Moves are assigned in beat order before anything is
 submitted. Every choice is recorded in `video-manifest.json`; `--seed N` makes
@@ -332,7 +349,7 @@ Enable billing, or set `GEMINI_MODEL` to a flash model.
 | `prompts.json` | The beat sheet. Input to everything. |
 | `engineer2_motion_vision.txt` | System prompt for the Gemini vision step. |
 | `images/` | Generated stills, `<i> - <TYPE>.png`. Gitignored. |
-| `avatar-prompt.json` | AVATAR narration lines with timings. |
+| `avatar-prompt.json` | AVATAR + SPLIT narration lines with timings. |
 | `motion-prompt.json` | Motion prompts for BROLL beats. |
 | `videos/` | Generated clips, `<i> - <TYPE>.mp4`. Gitignored. |
 | `video-manifest.json` | Which camera move each clip got. |

@@ -1,407 +1,191 @@
 [
   {
     "i": 1,
-    "t_start": 3.5,
-    "t_end": 9.7,
+    "t_start": 6.9,
+    "t_end": 14.6,
     "format": "WIDE",
-    "narration": "snow up to the windowsills, and the store in town won't extend a nickel of credit",
+    "narration": "A widow lives alone at the end of it, the way a lot of folks out our way still do.",
     "image": "images/1 - BROLL.png",
-    "motion_prompt": "A few light snowflakes fall gently across the scene, and the warm porch light flickers faintly. The camera has a very slight handheld drift and a small bob, as if held by an older person."
+    "motion_prompt": "The interior and porch lights flicker faintly, and the dark foreground grass rustles slightly in a subtle night breeze. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 2,
-    "t_start": 9.7,
-    "t_end": 13.2,
-    "format": "DETAIL",
-    "narration": "to anybody who can't pay cash. Nobody has cash.",
-    "image": "images/2 - BROLL.png",
-    "motion_prompt": "The empty cash register remains still, with a faint tremble in the dried plants. Very slight handheld camera drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 3,
-    "t_start": 13.2,
-    "t_end": 20.9,
-    "format": "HANDS",
-    "narration": "Two doors down, a family is boiling a pot of water with an onion in it and calling that supper.",
-    "image": "images/3 - BROLL.png",
-    "motion_prompt": "Hands slightly lower the onion as water bubbles in the pot and faint steam rises. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 5,
-    "t_start": 27.1,
-    "t_end": 34.4,
+    "i": 4,
+    "t_start": 20.3,
+    "t_end": 28.0,
     "format": "OBJECT",
-    "narration": "a widow and her four children are eating like it's Christmas. Beans thick with pork fat. Fried apples. Bread.",
-    "image": "images/5 - BROLL.png",
-    "motion_prompt": "The family chews slowly with subtle posture shifts, as spoons gently move in their bowls. Leaves rustle faintly outside the window. Very slight handheld drift and a small bob, as if held by an older person."
+    "narration": "She hasn't got a monitored system with a man in a headset three states away, waiting on a phone tree.",
+    "image": "images/4 - BROLL.png",
+    "motion_prompt": "The green \"READY\" LED flickers faintly. Ambient room shadows shift slightly across the plastic casing. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 7,
-    "t_start": 40.2,
-    "t_end": 44.8,
+    "i": 8,
+    "t_start": 42.1,
+    "t_end": 47.5,
+    "format": "HANDS",
+    "narration": "She turns that lock, she calls for help, and the boring little door holds.",
+    "image": "images/8 - BROLL.png",
+    "motion_prompt": "The hand twists the brass deadbolt slightly, tensing the fingers to complete the turn. Very slight handheld drift and a small bob."
+  },
+  {
+    "i": 9,
+    "t_start": 47.5,
+    "t_end": 50.9,
     "format": "WIDE",
-    "narration": "in a dirt-floor cellar and a row of crocks against the wall.",
-    "image": "images/7 - BROLL.png",
-    "motion_prompt": "Dust motes drift faintly in the ambient light. Very slight handheld drift and a small bob, as if held by an older person."
+    "narration": "Four minutes later there's a cruiser in the drive,",
+    "image": "images/9 - BROLL.png",
+    "motion_prompt": "The police cruiser's red and blue lights flash, casting alternating colors across the porch. Bare tree branches sway faintly in a subtle breeze. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 11,
-    "t_start": 61.7,
-    "t_end": 66.3,
-    "format": "HANDS",
-    "narration": "who could feed a family through a hard winter on almost nothing",
-    "image": "images/11 - BROLL.png",
-    "motion_prompt": "The lower hand scrapes the spoon downward, pushing thick yellow mush from the pot into the pan. Faint steam rises from the warm food while the upper hand adjusts its grip slightly. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 12,
-    "t_start": 66.3,
-    "t_end": 71.3,
-    "format": "HANDS",
-    "narration": "got quietly talked into emptying the cellar and buying the same food back,",
-    "image": "images/12 - BROLL.png",
-    "motion_prompt": "The hands slightly adjust their grip, causing the glass jars to tilt and clink faintly over the rusty barrel. Inside the bin, a loose piece of plastic rustles in a subtle breeze. Very slight handheld drift and a small bob, as if held by an older person."
+    "i": 14,
+    "t_start": 67.3,
+    "t_end": 72.3,
+    "format": "WIDE",
+    "narration": "there were about three point seven million household burglaries a year in this country,",
+    "image": "images/14 - BROLL.png",
+    "motion_prompt": "A gentle breeze rustles the tree leaves, creating subtly shifting shadows on the empty sidewalk and grass. The parked black car remains entirely still. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
     "i": 15,
-    "t_start": 83.6,
-    "t_end": 90.5,
-    "format": "OBJECT",
-    "narration": "'Banned' is the wrong word for most of what's on this list. Nobody outlawed a jar of honey.",
-    "image": "images/15 - BROLL.png",
-    "motion_prompt": "The jar remains still, with subtle shifts in light reflecting off the glass. Outside, bare branches sway minimally in a faint breeze. Very slight handheld camera drift and minor bob, as if held unsteadily."
-  },
-  {
-    "i": 19,
-    "t_start": 109.0,
-    "t_end": 112.8,
-    "format": "OBJECT",
-    "narration": "Go read the farm bulletins. Call your county extension office.",
-    "image": "images/19 - BROLL.png",
-    "motion_prompt": "The booklet and pencil remain perfectly still. Very slight handheld camera drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 20,
-    "t_start": 112.8,
-    "t_end": 116.6,
-    "format": "HANDS",
-    "narration": "The old methods still work. Every last one of them.",
-    "image": "images/20 - BROLL.png",
-    "motion_prompt": "The hands apply slight twisting pressure to tighten the metal lid, with fingers flexing minimally. Tiny bubbles shift slowly inside the jar's liquid. The camera features a very slight handheld drift and small bob."
-  },
-  {
-    "i": 23,
-    "t_start": 125.8,
-    "t_end": 130.4,
+    "t_start": 72.3,
+    "t_end": 76.1,
     "format": "WIDE",
-    "narration": "before there was a country wrapped around them, and they never left.",
-    "image": "images/23 - BROLL.png",
-    "motion_prompt": "Foreground leaves sway gently in a light breeze, and the mist in the valleys drifts slowly. Heavy gray clouds shift faintly overhead. Very slight handheld camera drift and small bob."
+    "narration": "and roughly a million of them happened with somebody home.",
+    "image": "images/15 - BROLL.png",
+    "motion_prompt": "Bare tree branches in the background sway slightly in a faint breeze, and a fallen leaf on the grass twitches. The porch light glows steadily. Very slight handheld camera drift and a small bob."
+  },
+  {
+    "i": 17,
+    "t_start": 82.3,
+    "t_end": 87.3,
+    "format": "DETAIL",
+    "narration": "and the most common way in was damaging or forcing a door.",
+    "image": "images/17 - BROLL.png",
+    "motion_prompt": "A tiny wood splinter trembles slightly, and a speck of dust falls from the damaged frame. Dust motes drift slowly in the dark interior. Very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 21,
+    "t_start": 100.0,
+    "t_end": 103.5,
+    "format": "OBJECT",
+    "narration": "Now sit with that. A twenty-thousand-dollar bullet-resistant door...",
+    "image": "images/21 - BROLL.png",
+    "motion_prompt": "The heavy steel door and surrounding workshop remain completely still. The camera exhibits a very slight handheld drift and a small bob, as if held by an older person."
   },
   {
     "i": 25,
-    "t_start": 136.2,
-    "t_end": 143.1,
-    "format": "DETAIL",
-    "narration": "and the man kept a leather book he'd filled up over a lifetime with every skill worth saving.",
+    "t_start": 117.7,
+    "t_end": 123.5,
+    "format": "HANDS",
+    "narration": "and I learned most of what I know at the elbow of the man who raised me,",
     "image": "images/25 - BROLL.png",
-    "motion_prompt": "The leather book sits still on the wood, with a barely perceptible flutter on the edge of an exposed paper page. Faint dust motes drift in the ambient light. Very slight handheld drift and a small bob, as if held by an older person."
+    "motion_prompt": "The man slowly pushes the hand plane forward, curling small wood shavings from the blade. His upper body shifts slightly with the effort of the tool. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 28,
-    "t_start": 159.3,
-    "t_end": 167.4,
+    "i": 32,
+    "t_start": 156.1,
+    "t_end": 161.5,
     "format": "HANDS",
-    "narration": "It's that this kind of knowledge got buried on purpose, and every person who digs a piece of it back up",
-    "image": "images/28 - BROLL.png",
-    "motion_prompt": "The hands tense and pull, causing the heavy canvas bag to shift and its fabric to strain slightly. Faint dust floats in the shadows. Very slight handheld camera drift and bob."
+    "narration": "Number fourteen buys you a delay most intruders won't stand around and wait out.",
+    "image": "images/32 - BROLL.png",
+    "motion_prompt": "The hands subtly adjust the film roll, causing the clear plastic to flex slightly. Outside, the tree leaves sway faintly. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 33,
-    "t_start": 188.2,
-    "t_end": 194.7,
-    "format": "OBJECT",
-    "narration": "Along the way, keep an eye out. Number eight can genuinely put you in a hospital bed",
-    "image": "images/33 - BROLL.png",
-    "motion_prompt": "The dusty jars remain completely still on the shelf while a few tiny dust motes float faintly in the stagnant air. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 37,
-    "t_start": 211.2,
-    "t_end": 217.0,
-    "format": "HANDS",
-    "narration": "a company spent a small fortune convincing your great-grandmother to throw it in the trash.",
-    "image": "images/37 - BROLL.png",
-    "motion_prompt": "The hand slightly adjusts its grip on the white block hovering over the bin. The plastic trash bag liner rustles faintly. Very slight handheld camera drift and bob."
+    "i": 34,
+    "t_start": 167.3,
+    "t_end": 173.8,
+    "format": "WIDE",
+    "narration": "Number four does double duty against a thing that kills more folks in these hills than any burglar ever will.",
+    "image": "images/34 - BROLL.png",
+    "motion_prompt": "Dark storm clouds roll slowly across the sky while the tree line sways gently in the wind. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
     "i": 41,
-    "t_start": 230.9,
-    "t_end": 234.4,
-    "format": "HANDS",
-    "narration": "before there were roads carried it by the pound.",
-    "image": "images/41 - BROLL.png",
-    "motion_prompt": "The gloved hand shifts slightly, causing a few corn kernels to settle inside the pouch. Faint dust drifts in the out-of-focus background. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 42,
-    "t_start": 234.4,
-    "t_end": 241.7,
-    "format": "HANDS",
-    "narration": "You take dried field corn, not sweet corn, and you dry-roast it in a heavy skillet over medium heat,",
-    "image": "images/42 - BROLL.png",
-    "motion_prompt": "The hand holding the skillet shifts slightly, allowing the airborne corn kernels to tumble back into the pan. The blue and orange gas flames flicker steadily beneath the cast iron. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 43,
-    "t_start": 241.7,
-    "t_end": 247.9,
-    "format": "DETAIL",
-    "narration": "stirring, until the kernels toast up brown and hard and some of them crack. That's it.",
-    "image": "images/43 - BROLL.png",
-    "motion_prompt": "Faint wisps of heat and smoke rise as a few roasted seeds subtly shift in the pan. Very slight handheld camera drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 45,
-    "t_start": 253.3,
-    "t_end": 259.5,
-    "format": "HANDS",
-    "narration": "You can gnaw it as is, or grind it into a coarse meal and boil it.",
-    "image": "images/45 - BROLL.png",
-    "motion_prompt": "The right hand steadily turns the crank, causing crushed grain to continuously fall from the metal spout into the bowl. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 48,
-    "t_start": 269.9,
-    "t_end": 277.6,
+    "t_start": 199.2,
+    "t_end": 205.3,
     "format": "WIDE",
-    "narration": "the cereal aisle solved for itself. Hold that thought, because the next one carried families through years the corn couldn't.",
-    "image": "images/48 - BROLL.png",
-    "motion_prompt": "The cereal boxes remain completely still on the shelves, with only faint shifts in overhead light reflecting off the glossy cardboard. Very slight handheld camera drift and a small bob, as if held by an older person."
+    "narration": "It's the interior room with no outside walls, on the lowest floor you can reach fast from where you sleep.",
+    "image": "images/41 - BROLL.png",
+    "motion_prompt": "Faint dust motes drift slowly in the warm overhead light. The scene remains completely still, featuring a very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 44,
+    "t_start": 213.8,
+    "t_end": 219.2,
+    "format": "WIDE",
+    "narration": "lowest floor, small interior room, away from windows, put as many walls between you and the outside as you can.",
+    "image": "images/44 - BROLL.png",
+    "motion_prompt": "The room remains completely still, with only a microscopic sway of the hanging towel. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
     "i": 49,
-    "t_start": 277.6,
-    "t_end": 283.8,
-    "format": "OBJECT",
-    "narration": "Number nineteen. Dried beans. Not glamorous. Just about the best calorie-per-dollar insurance a house can hold.",
+    "t_start": 241.9,
+    "t_end": 245.3,
+    "format": "HANDS",
+    "narration": "and a boot goes through it like a paper plate.",
     "image": "images/49 - BROLL.png",
-    "motion_prompt": "The plastic bag of beans remains still, with a faint shift in light reflecting off the wrinkles. Very slight handheld drift and a small bob, as if held by an older person."
+    "motion_prompt": "The boot presses forward slightly, causing the door to yield a fraction of an inch while the denim fabric shifts. Faint dust floats in the background room. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 53,
-    "t_start": 298.4,
-    "t_end": 304.9,
+    "i": 52,
+    "t_start": 256.5,
+    "t_end": 262.3,
+    "format": "OBJECT",
+    "narration": "The security-door companies would rather sell you a nine-hundred-dollar unit, and that's fair, that's their trade, no villainy in it.",
+    "image": "images/52 - BROLL.png",
+    "motion_prompt": "The purple plastic bag rustles slightly in a faint breeze, with subtle daylight shifts across the textured wall and metal door. The camera features a very slight handheld drift and a small bob, as if held by an older person."
+  },
+  {
+    "i": 56,
+    "t_start": 278.4,
+    "t_end": 283.4,
     "format": "HANDS",
-    "narration": "The one honest catch: the older they get, the longer they soak and simmer, so rotate them.",
-    "image": "images/53 - BROLL.png",
-    "motion_prompt": "Water flows steadily from the pitcher, splashing gently into the dry beans. The person's torso shifts slightly with natural breathing. Very slight handheld drift and a small bob, as if held by an older person."
+    "narration": "It's held by two screws about three-quarters of an inch long, biting into nothing but soft trim.",
+    "image": "images/56 - BROLL.png",
+    "motion_prompt": "The fingers gently twist the small screw into the hole. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 60,
-    "t_start": 336.4,
-    "t_end": 341.0,
+    "i": 63,
+    "t_start": 314.2,
+    "t_end": 320.0,
     "format": "DETAIL",
-    "narration": "Sealed away from air and moisture, whole grains store for many years.",
-    "image": "images/60 - BROLL.png",
-    "motion_prompt": "The sealed bag remains still while faint light shifts across the plastic. Tiny dust motes drift in the air. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 61,
-    "t_start": 341.0,
-    "t_end": 348.7,
-    "format": "HANDS",
-    "narration": "You grind only what you need, the week you need it. A hand mill runs thirty or forty dollars used.",
-    "image": "images/61 - BROLL.png",
-    "motion_prompt": "The right hand steadily cranks the wheel while a continuous stream of flour falls from the spout, creating faint dust. The camera has a very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 65,
-    "t_start": 364.1,
-    "t_end": 369.5,
-    "format": "WIDE",
-    "narration": "Number seventeen. Dried apples. Every homestead had strings of them hanging in the rafters.",
-    "image": "images/65 - BROLL.png",
-    "motion_prompt": "The hanging strings of apple slices sway and twist slightly in a faint draft. Very slight handheld camera drift and bob."
-  },
-  {
-    "i": 66,
-    "t_start": 369.5,
-    "t_end": 373.7,
-    "format": "HANDS",
-    "narration": "Core and slice thin, a quarter inch, and dry them low,",
-    "image": "images/66 - BROLL.png",
-    "motion_prompt": "The right hand gently presses the knife downward to complete the slice while the left hand holds the apple steady. Very slight handheld drift and a small bob, as if held by an older person."
+    "narration": "That bolt throws a full inch of steel into the frame and is built to take hundreds of pounds of force",
+    "image": "images/63 - BROLL.png",
+    "motion_prompt": "The wooden door shifts imperceptibly on its hinges, keeping the extended deadbolt hovering near the strike plate. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
     "i": 67,
-    "t_start": 373.7,
-    "t_end": 378.3,
-    "format": "DETAIL",
-    "narration": "around one hundred thirty-five degrees in a dehydrator or a barely-warm oven",
+    "t_start": 334.2,
+    "t_end": 339.6,
+    "format": "HANDS",
+    "narration": "In a fire, a locked door you can't open without hunting for a key is a coffin,",
     "image": "images/67 - BROLL.png",
-    "motion_prompt": "The apple slices sit completely motionless on the oven rack. Very slight handheld drift and a small bob, as if held by an older person."
+    "motion_prompt": "The fingers push the key slightly further into the lock, making the dangling keys sway. The camera has a very slight handheld drift and small bob."
   },
   {
-    "i": 70,
-    "t_start": 388.3,
-    "t_end": 393.7,
+    "i": 73,
+    "t_start": 362.3,
+    "t_end": 369.2,
     "format": "HANDS",
-    "narration": "Fried in a little fat with a spoon of sugar, they'll make you understand",
-    "image": "images/70 - BROLL.png",
-    "motion_prompt": "The hand slightly pushes the spatula to shift the frying apple slices. The fat bubbles actively around the fruit while faint steam rises. Very slight handheld drift and a small bob, as if held by an older person."
+    "narration": "and spreads a kick across a foot of frame instead of two inches. Twenty-five to seventy dollars, and it screws in over what you've got.",
+    "image": "images/73 - BROLL.png",
+    "motion_prompt": "The hand applies slight pressure as the drill vibrates faintly against the screw. Background leaves rustle gently in a mild breeze. Very slight handheld drift and a small bob, as if held by an older person."
   },
   {
-    "i": 74,
-    "t_start": 412.1,
-    "t_end": 416.7,
-    "format": "HANDS",
-    "narration": "about three tablespoons of pickling salt to five pounds of shredded cabbage,",
-    "image": "images/74 - BROLL.png",
-    "motion_prompt": "The hands gently push and turn the shredded cabbage, mixing the salt into the leaves. Very slight handheld camera drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 75,
-    "t_start": 416.7,
-    "t_end": 422.9,
-    "format": "HANDS",
-    "narration": "which lands right around two percent salt by weight. Pack it down under its own brine,",
-    "image": "images/75 - BROLL.png",
-    "motion_prompt": "The fist presses downward slightly, making the brine ripple and pool around the knuckles. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 79,
-    "t_start": 441.8,
-    "t_end": 446.0,
-    "format": "WIDE",
-    "narration": "he loaded roughly seven thousand eight hundred sixty pounds of sauerkraut",
-    "image": "images/79 - BROLL.png",
-    "motion_prompt": "Dust motes drift faintly in the light from the left window while the wooden barrels remain completely still. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 82,
-    "t_start": 457.5,
-    "t_end": 463.3,
-    "format": "WIDE",
-    "narration": "Number fifteen. The root cellar. Not a food, a machine, and it runs on dirt.",
-    "image": "images/82 - BROLL.png",
-    "motion_prompt": "Tall grass on the roof and surrounding leaves sway gently in a light breeze, shifting the dappled shadows. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 86,
-    "t_start": 479.4,
-    "t_end": 483.2,
-    "format": "WIDE",
-    "narration": "And never store them near the furnace or the woodstove.",
-    "image": "images/86 - BROLL.png",
-    "motion_prompt": "Faint dust motes drift slowly in the light from the basement window. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 87,
-    "t_start": 483.2,
-    "t_end": 486.7,
+    "i": 78,
+    "t_start": 389.2,
+    "t_end": 394.2,
     "format": "DETAIL",
-    "narration": "A hole in a north bank, lined and vented,",
-    "image": "images/87 - BROLL.png",
-    "motion_prompt": "A faint breeze slightly stirs the grass around the static pipe. Very slight handheld camera drift and a small bob."
+    "narration": "The commercial ones are rated in the thousands of pounds and run fifteen to forty dollars.",
+    "image": "images/78 - BROLL.png",
+    "motion_prompt": "The objects remain entirely still. Very slight handheld camera drift and a small bob, as if held by an older person."
   },
   {
-    "i": 91,
-    "t_start": 499.8,
-    "t_end": 505.6,
-    "format": "OBJECT",
-    "narration": "and sealed in a jar it keeps for years without a thing done to it.",
-    "image": "images/91 - BROLL.png",
-    "motion_prompt": "Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 92,
-    "t_start": 505.6,
-    "t_end": 508.7,
+    "i": 84,
+    "t_start": 420.3,
+    "t_end": 423.8,
     "format": "HANDS",
-    "narration": "A tablespoon in cornbread, a drizzle over biscuits,",
-    "image": "images/92 - BROLL.png",
-    "motion_prompt": "The thick dark syrup continues a slow, steady drizzle from the spoon, pooling onto the biscuit as the holding hand trembles faintly. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 95,
-    "t_start": 520.6,
-    "t_end": 527.5,
-    "format": "WIDE",
-    "narration": "I could talk crocks and cellars all day, and none of it costs you a thing but time.",
-    "image": "images/95 - BROLL.png",
-    "motion_prompt": "Dust motes drift slowly through the light spilling from the right window. The camera has a very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 97,
-    "t_start": 534.4,
-    "t_end": 540.2,
-    "format": "DETAIL",
-    "narration": "everything my grandfather wrote down and forty years of what I've added, into a book,",
-    "image": "images/97 - BROLL.png",
-    "motion_prompt": "The curled edges of the top handwritten pages flutter imperceptibly in a faint draft. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 100,
-    "t_start": 552.1,
-    "t_end": 556.3,
-    "format": "OBJECT",
-    "narration": "Number thirteen. Hardtack. Three ingredients. Flour, water, and a little salt.",
-    "image": "images/100 - BROLL.png",
-    "motion_prompt": "The water in the metal cup ripples faintly, reflecting minor shifts in ambient room light. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 101,
-    "t_start": 556.3,
-    "t_end": 563.2,
-    "format": "HANDS",
-    "narration": "Roll it a third of an inch thick, cut it in squares, poke holes so it won't rise,",
-    "image": "images/101 - BROLL.png",
-    "motion_prompt": "The hands press the wooden dowel downward into the dough, then lift slightly to move to the next spot. The dough softly yields to the pressure. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 102,
-    "t_start": 563.2,
-    "t_end": 570.1,
-    "format": "DETAIL",
-    "narration": "and bake it slow and low, around two hundred fifty degrees, until every trace of moisture is gone.",
-    "image": "images/102 - BROLL.png",
-    "motion_prompt": "The crackers sit motionless on the baking pan as ambient light subtly shifts across the dark metal. Very slight handheld camera drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 108,
-    "t_start": 602.0,
-    "t_end": 608.9,
-    "format": "WIDE",
-    "narration": "Number twelve. Salt-cured pork. Before refrigeration, salt was how you owned meat past the day you killed it.",
-    "image": "images/108 - BROLL.png",
-    "motion_prompt": "The pile of coarse salt remains entirely static on the wooden table. The camera exhibits a very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 112,
-    "t_start": 628.9,
-    "t_end": 634.7,
-    "format": "DETAIL",
-    "narration": "especially anything you'll smoke low and slow, that's when a curing salt with nitrite matters,",
-    "image": "images/112 - BROLL.png",
-    "motion_prompt": "The pink salt remains completely still. Very slight handheld camera drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 114,
-    "t_start": 638.5,
-    "t_end": 645.4,
-    "format": "HANDS",
-    "narration": "Follow a tested cure, weigh your salt, don't guess. Coming up, the same idea, aimed at the river.",
-    "image": "images/114 - BROLL.png",
-    "motion_prompt": "The hands gently tilt the jar, letting a few coarse granules tumble onto the metal pan as the blue digital numbers fluctuate. Subtle natural light shifts across the wooden workbench. Very slight handheld drift and a small bob, as if held by an older person."
-  },
-  {
-    "i": 116,
-    "t_start": 651.2,
-    "t_end": 658.5,
-    "format": "WIDE",
-    "narration": "and you've got protein that keeps for weeks without a fridge, longer if you smoke and store it cold.",
-    "image": "images/116 - BROLL.png",
-    "motion_prompt": "A few loose grains of salt drop from the stiff, drying fish, and faint dust motes drift in the side light. Very slight handheld drift and a small bob, as if held by an older person."
+    "narration": "A man breaks standard glass in under ten seconds.",
+    "image": "images/84 - BROLL.png",
+    "motion_prompt": "The hand trembles slightly under the rock's weight. Distant leaves outside rustle faintly. Very slight handheld drift and a small bob, as if held by an older person."
   }
 ]

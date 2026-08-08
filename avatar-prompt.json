@@ -2,361 +2,540 @@
   {
     "i": 0,
     "t_start": 0.0,
-    "t_end": 3.5,
-    "narration": "Nineteen thirty-three. A hollow back in the southern mountains,"
+    "t_end": 6.9,
+    "type": "AVATAR",
+    "narration": "Picture a two-lane county road, well past midnight, the kind that goes quiet an hour after supper."
   },
   {
-    "i": 6,
-    "t_start": 34.4,
-    "t_end": 40.2,
-    "narration": "And they'll eat that way clear through to spring, because their whole winter is sitting"
+    "i": 5,
+    "t_start": 28.0,
+    "t_end": 31.8,
+    "type": "SPLIT",
+    "narration": "What she's got is a bedroom with a solid door,"
   },
   {
-    "i": 9,
-    "t_start": 49.0,
+    "i": 10,
+    "t_start": 50.9,
     "t_end": 55.9,
-    "narration": "Now here's the part they don't tell you. Within about thirty years, that exact pantry got called backward."
+    "type": "AVATAR",
+    "narration": "and the men who came for her are already gone into the dark."
   },
   {
-    "i": 14,
-    "t_start": 76.3,
-    "t_end": 83.6,
-    "narration": "Let me be straight with you right at the top, because I'm not here to sell you a scare."
+    "i": 11,
+    "t_start": 55.9,
+    "t_end": 60.1,
+    "type": "AVATAR",
+    "narration": "Here's the part nobody selling a panic room wants said plain."
   },
   {
-    "i": 18,
-    "t_start": 101.3,
-    "t_end": 109.0,
-    "narration": "and I'll show you exactly which ones and exactly why. The strange thing is what the record actually says now."
+    "i": 13,
+    "t_start": 62.7,
+    "t_end": 67.3,
+    "type": "SPLIT",
+    "narration": "Across the years two thousand three through two thousand seven,"
   },
   {
-    "i": 22,
-    "t_start": 120.8,
-    "t_end": 125.8,
-    "narration": "I'm Roy. Seventh generation on this ridge. My people came into these mountains"
+    "i": 16,
+    "t_start": 76.1,
+    "t_end": 82.3,
+    "type": "AVATAR",
+    "narration": "And when a person was home, the offender was unarmed in about sixty percent of the violent ones,"
+  },
+  {
+    "i": 19,
+    "t_start": 91.5,
+    "t_end": 96.5,
+    "type": "SPLIT",
+    "narration": "at a doorway, by whether that doorway holds long enough for help to come."
+  },
+  {
+    "i": 20,
+    "t_start": 96.5,
+    "t_end": 100.0,
+    "type": "AVATAR",
+    "narration": "Time. That's the only thing you are ever really buying."
+  },
+  {
+    "i": 23,
+    "t_start": 108.8,
+    "t_end": 113.1,
+    "type": "SPLIT",
+    "narration": "Minutes. One just charges you two thousand times more for them."
   },
   {
     "i": 24,
-    "t_start": 130.4,
-    "t_end": 136.2,
-    "narration": "My father died when I was small, so it was my grandfather who raised me,"
+    "t_start": 113.1,
+    "t_end": 117.7,
+    "type": "AVATAR",
+    "narration": "I'm Roy Hensley. Seventh generation on this ridge in the southern mountains,"
   },
   {
-    "i": 27,
-    "t_start": 151.6,
-    "t_end": 159.3,
-    "narration": "If that sounds like something you'd want more of, go on and subscribe. Not for my sake. I do fine."
+    "i": 28,
+    "t_start": 133.1,
+    "t_end": 138.8,
+    "type": "AVATAR",
+    "narration": "If you get anything out of today, do me one favor and subscribe. Not for my sake."
   },
   {
     "i": 30,
-    "t_start": 172.8,
-    "t_end": 178.2,
-    "narration": "So here's the deal today. Twenty foods. We count down from twenty to one,"
+    "t_start": 143.5,
+    "t_end": 150.8,
+    "type": "SPLIT",
+    "narration": "and every one you pass along drags a little more of it back into the daylight. You'll want the next one."
   },
   {
-    "i": 32,
-    "t_start": 183.6,
-    "t_end": 188.2,
-    "narration": "was built specifically to replace, is worth the wait. Stay for it."
+    "i": 31,
+    "t_start": 150.8,
+    "t_end": 156.1,
+    "type": "AVATAR",
+    "narration": "Twenty tricks today, counted down from twenty to one. I'll tell you now, so you stay."
   },
   {
-    "i": 36,
-    "t_start": 207.4,
-    "t_end": 211.2,
-    "narration": "back in nineteen eighty-seven. And number one, like I said,"
+    "i": 35,
+    "t_start": 173.8,
+    "t_end": 177.3,
+    "type": "SPLIT",
+    "narration": "And number one isn't a trick at all. It costs nothing,"
   },
   {
-    "i": 38,
-    "t_start": 217.0,
-    "t_end": 223.2,
-    "narration": "The real question was never what we lost. It's who came out ahead when we forgot,"
+    "i": 37,
+    "t_start": 181.5,
+    "t_end": 187.3,
+    "type": "AVATAR",
+    "narration": "The question was never what we lost. It's who got rich when we forgot we could do this ourselves."
   },
   {
-    "i": 40,
-    "t_start": 226.3,
-    "t_end": 230.9,
-    "narration": "Number twenty. Parched corn. The long hunters who walked into these mountains"
+    "i": 39,
+    "t_start": 190.0,
+    "t_end": 193.8,
+    "type": "AVATAR",
+    "narration": "Number twenty. Pick the right room before you spend a dime."
+  },
+  {
+    "i": 43,
+    "t_start": 209.2,
+    "t_end": 213.8,
+    "type": "SPLIT",
+    "narration": "The National Weather Service has been saying the same thing about tornado sheltering for decades:"
+  },
+  {
+    "i": 46,
+    "t_start": 224.6,
+    "t_end": 230.3,
+    "type": "AVATAR",
+    "narration": "That's your whole foundation, and it's free. Because the next thing you touch is the one that actually stops a man cold."
   },
   {
     "i": 47,
-    "t_start": 264.5,
-    "t_end": 269.9,
-    "narration": "Cheap as it gets, and there's no factory involved, which is precisely the problem"
+    "t_start": 230.3,
+    "t_end": 235.3,
+    "type": "SPLIT",
+    "narration": "Number nineteen. Trade the hollow door for a solid one. Go knock on your bedroom door right now."
   },
   {
-    "i": 52,
-    "t_start": 292.6,
-    "t_end": 298.4,
-    "narration": "and people have opened sealed beans well over a decade later and cooked them fine."
+    "i": 51,
+    "t_start": 250.3,
+    "t_end": 256.5,
+    "type": "SPLIT",
+    "narration": "That is the single biggest jump in protection per dollar in this whole list, and I don't say that lightly."
   },
   {
-    "i": 56,
-    "t_start": 315.6,
-    "t_end": 321.0,
-    "narration": "That's not a conspiracy, friend. That's marketing, and it's very good at its job."
+    "i": 54,
+    "t_start": 268.0,
+    "t_end": 273.8,
+    "type": "AVATAR",
+    "narration": "Number eighteen. The eight-dollar screw trick. This is the one your grandfather would've grinned at."
   },
   {
     "i": 58,
-    "t_start": 326.4,
-    "t_end": 330.2,
-    "narration": "Number eighteen. Whole grain. Here's the trick most folks miss."
+    "t_start": 288.4,
+    "t_end": 292.6,
+    "type": "SPLIT",
+    "narration": "so they punch clean through the frame into the wall stud behind it."
   },
   {
-    "i": 62,
-    "t_start": 348.7,
-    "t_end": 352.5,
-    "narration": "That single habit, storing the grain whole and grinding fresh,"
+    "i": 60,
+    "t_start": 297.6,
+    "t_end": 305.0,
+    "type": "AVATAR",
+    "narration": "You just tied your door to the bones of the house. Most break-ins are kick-ins, and this alone stops a mess of them."
+  },
+  {
+    "i": 61,
+    "t_start": 305.0,
+    "t_end": 308.8,
+    "type": "SPLIT",
+    "narration": "Next we harden the lock those screws are protecting. Number seventeen. A real deadbolt, single-cylinder."
+  },
+  {
+    "i": 65,
+    "t_start": 323.8,
+    "t_end": 329.6,
+    "type": "AVATAR",
+    "narration": "And hear me on this: get the single-cylinder kind, the one with a key outside and a plain thumb-turn inside."
   },
   {
     "i": 69,
-    "t_start": 383.7,
-    "t_end": 388.3,
-    "narration": "Store them dry and they keep the better part of a year."
+    "t_start": 343.4,
+    "t_end": 349.2,
+    "type": "SPLIT",
+    "narration": "Turn it and go, no key, every time. Now, what about the frame itself splintering?"
   },
   {
-    "i": 72,
-    "t_start": 400.2,
-    "t_end": 407.9,
-    "narration": "Number sixteen. Sauerkraut. Just cabbage and salt, and it's one of the most quietly powerful things in this whole list."
+    "i": 70,
+    "t_start": 349.2,
+    "t_end": 353.4,
+    "type": "AVATAR",
+    "narration": "Number sixteen. Cage the strike with a longer box."
   },
   {
-    "i": 77,
-    "t_start": 429.1,
-    "t_end": 435.6,
-    "narration": "The salt holds off the rot while the good bacteria do the work, and here's the kicker:"
+    "i": 75,
+    "t_start": 374.2,
+    "t_end": 379.2,
+    "type": "SPLIT",
+    "narration": "That handles a shoulder. Number fifteen handles the man who brought a tool."
+  },
+  {
+    "i": 76,
+    "t_start": 379.2,
+    "t_end": 383.0,
+    "type": "AVATAR",
+    "narration": "Number fifteen. A barricade bar you can throw in two seconds."
+  },
+  {
+    "i": 79,
+    "t_start": 394.2,
+    "t_end": 399.2,
+    "type": "SPLIT",
+    "narration": "This is the piece that buys you time after the lock, and time is the whole ballgame."
   },
   {
     "i": 80,
-    "t_start": 446.0,
-    "t_end": 452.5,
-    "narration": "and lost not one man to scurvy on a voyage that used to kill half a crew."
+    "t_start": 399.2,
+    "t_end": 403.4,
+    "type": "AVATAR",
+    "narration": "One caution, and I mean it. Never barricade yourself into a room without a way out."
   },
   {
-    "i": 85,
-    "t_start": 472.9,
-    "t_end": 479.4,
-    "narration": "Two rules. Keep your apples separate, because the gas they give off will sprout your potatoes early."
+    "i": 82,
+    "t_start": 409.6,
+    "t_end": 415.0,
+    "type": "AVATAR",
+    "narration": "Speaking of windows. Number fourteen. Security film on the glass. This is the one I told you to wait for."
   },
   {
-    "i": 90,
-    "t_start": 494.4,
-    "t_end": 499.8,
-    "narration": "Number fourteen. Sorghum and molasses. Boiled-down cane or sorghum syrup was the mountain sweetener,"
+    "i": 86,
+    "t_start": 429.2,
+    "t_end": 433.0,
+    "type": "SPLIT",
+    "narration": "and a full minute to three or four minutes to breach."
+  },
+  {
+    "i": 89,
+    "t_start": 443.4,
+    "t_end": 448.0,
+    "type": "AVATAR",
+    "narration": "Say it plain, though. It is not bulletproof. A bullet goes right through."
+  },
+  {
+    "i": 91,
+    "t_start": 453.8,
+    "t_end": 457.6,
+    "type": "SPLIT",
+    "narration": "Number thirteen. A peephole or a five-dollar wedge camera."
   },
   {
     "i": 94,
-    "t_start": 512.5,
-    "t_end": 520.6,
-    "narration": "Now, before we keep going, I want to be honest with you about something, because from here down the stakes climb."
+    "t_start": 467.6,
+    "t_end": 470.7,
+    "type": "AVATAR",
+    "narration": "The point is simple: information without exposure."
   },
   {
-    "i": 98,
-    "t_start": 540.2,
-    "t_end": 545.2,
-    "narration": "and it lives on my site. The link's below. That's the long version,"
+    "i": 96,
+    "t_start": 477.3,
+    "t_end": 484.2,
+    "type": "SPLIT",
+    "narration": "But the seeing part, the part that keeps you from opening a door on a stranger, you can own outright for the price of one month of theirs."
+  },
+  {
+    "i": 97,
+    "t_start": 484.2,
+    "t_end": 490.0,
+    "type": "AVATAR",
+    "narration": "Now let's make sure you can call for that help when it counts. Number twelve. Two ways to reach nine-one-one. A dead phone is worthless."
+  },
+  {
+    "i": 101,
+    "t_start": 506.9,
+    "t_end": 512.6,
+    "type": "SPLIT",
+    "narration": "If you've still got a landline, bless you, keep it; it works when the power and the towers don't."
   },
   {
     "i": 103,
-    "t_start": 570.1,
-    "t_end": 577.4,
-    "narration": "No fat, ever, because fat goes rancid and moisture grows mold. Do it right and it lasts effectively forever."
+    "t_start": 516.1,
+    "t_end": 519.2,
+    "type": "AVATAR",
+    "narration": "Number eleven. Light that isn't a flame."
   },
   {
     "i": 106,
-    "t_start": 591.2,
-    "t_end": 596.6,
-    "narration": "Costs pennies. Soak it in coffee or soup so you don't crack a tooth."
+    "t_start": 530.7,
+    "t_end": 535.3,
+    "type": "SPLIT",
+    "narration": "And do not, under any circumstance, use candles in a room you've sealed up."
   },
   {
-    "i": 111,
-    "t_start": 621.2,
-    "t_end": 628.9,
-    "narration": "Here's the safety line I won't skip: if you're curing to keep meat at room temperature for a long stretch,"
+    "i": 107,
+    "t_start": 535.3,
+    "t_end": 539.2,
+    "type": "AVATAR",
+    "narration": "That brings me to the one that actually kills people. Number ten. Air, and the thing that steals it."
   },
   {
-    "i": 115,
-    "t_start": 645.4,
-    "t_end": 651.2,
-    "narration": "Number eleven. Smoked and dried fish. Split it thin, brine it, and dry it hard,"
+    "i": 110,
+    "t_start": 553.0,
+    "t_end": 558.0,
+    "type": "AVATAR",
+    "narration": "Carbon monoxide has no smell and it drops folks before they know they're in trouble."
+  },
+  {
+    "i": 112,
+    "t_start": 563.8,
+    "t_end": 569.2,
+    "type": "SPLIT",
+    "narration": "That's the safety line I will not let you cross for the sake of doing it the old way."
+  },
+  {
+    "i": 114,
+    "t_start": 574.6,
+    "t_end": 577.6,
+    "type": "AVATAR",
+    "narration": "Number nine. The forty-dollar kit on the shelf."
+  },
+  {
+    "i": 118,
+    "t_start": 593.4,
+    "t_end": 599.2,
+    "type": "SPLIT",
+    "narration": "Forty dollars, one plastic tote, done once. Number eight is what most people forget to put in it."
   },
   {
     "i": 119,
-    "t_start": 670.8,
-    "t_end": 679.3,
-    "narration": "is to freeze fish at minus four degrees for seven days to kill them before you cold-smoke or dry at low temperature."
+    "t_start": 599.2,
+    "t_end": 602.3,
+    "type": "AVATAR",
+    "narration": "Number eight. Something to signal with."
+  },
+  {
+    "i": 122,
+    "t_start": 613.8,
+    "t_end": 620.0,
+    "type": "SPLIT",
+    "narration": "When you're hoarse and scared, a whistle keeps calling for you. Next we make the room work for the whole household, not just you."
   },
   {
     "i": 123,
-    "t_start": 696.6,
-    "t_end": 701.2,
-    "narration": "Here's the modern safety upgrade the old-timers didn't have and you should:"
+    "t_start": 620.0,
+    "t_end": 624.2,
+    "type": "AVATAR",
+    "narration": "Number seven. A plan the family can run in the dark."
   },
   {
     "i": 127,
-    "t_start": 723.1,
-    "t_end": 729.6,
-    "narration": "Number nine. Pickled eggs. Hard-boiled eggs held in vinegar. Simple, and it keeps them good for weeks."
+    "t_start": 637.6,
+    "t_end": 643.0,
+    "type": "SPLIT",
+    "narration": "That's the piece the twenty-thousand-dollar installers can't sell you, and it's worth more than their steel."
+  },
+  {
+    "i": 128,
+    "t_start": 643.0,
+    "t_end": 646.9,
+    "type": "AVATAR",
+    "narration": "There's a lot more of this than fits in one sitting."
+  },
+  {
+    "i": 130,
+    "t_start": 653.8,
+    "t_end": 659.2,
+    "type": "SPLIT",
+    "narration": "It's the long version, there if you want it. That's the last you'll hear of it from me. Back to the list."
   },
   {
     "i": 131,
-    "t_start": 745.0,
-    "t_end": 749.6,
-    "narration": "Big whole eggs in a low-acid center are a textbook botulism risk"
+    "t_start": 659.2,
+    "t_end": 663.4,
+    "type": "AVATAR",
+    "narration": "Number six. Anchor the heavy stuff. In that same interior room,"
   },
   {
-    "i": 135,
-    "t_start": 763.0,
-    "t_end": 769.5,
-    "narration": "Now. Everything above this line, nobody ever tried to stop. From here down, we're into the ones"
+    "i": 134,
+    "t_start": 674.2,
+    "t_end": 677.3,
+    "type": "SPLIT",
+    "narration": "Number five. Cover against debris."
   },
   {
-    "i": 137,
-    "t_start": 774.5,
-    "t_end": 779.9,
-    "narration": "Number eight. Home-canned vegetables and meat. This is the one that can hurt you,"
+    "i": 138,
+    "t_start": 692.6,
+    "t_end": 696.5,
+    "type": "AVATAR",
+    "narration": "One room, two disasters, no extra money."
+  },
+  {
+    "i": 139,
+    "t_start": 696.5,
+    "t_end": 701.1,
+    "type": "SPLIT",
+    "narration": "Number four. Know when the room is wrong. This is the double-duty piece."
   },
   {
     "i": 141,
-    "t_start": 803.4,
-    "t_end": 809.6,
-    "narration": "The botulism spore survives boiling water. The only thing that kills it is a pressure canner"
+    "t_start": 704.6,
+    "t_end": 711.1,
+    "type": "AVATAR",
+    "narration": "If you live in a mobile or manufactured home, the honest answer is different, and I won't dress it up: in a tornado, you leave."
+  },
+  {
+    "i": 144,
+    "t_start": 720.0,
+    "t_end": 725.3,
+    "type": "SPLIT",
+    "narration": "Against an intruder the hardening tricks still help you. Against the sky, get out. Number three is about not advertising any of this."
   },
   {
     "i": 145,
-    "t_start": 829.6,
-    "t_end": 835.4,
-    "narration": "Do all that, and home canning isn't dangerous, it's one of the great household skills."
+    "t_start": 725.3,
+    "t_end": 728.4,
+    "type": "AVATAR",
+    "narration": "Number three. Let it look like nothing."
   },
   {
     "i": 148,
-    "t_start": 848.8,
-    "t_end": 853.8,
-    "narration": "Number seven. Raw milk. Here's your genuine government line, the one I promised."
+    "t_start": 738.4,
+    "t_end": 745.3,
+    "type": "SPLIT",
+    "narration": "Nobody clocks it, nobody plans around it. Plain is protection. Now for the one that makes every other number on this list actually function."
   },
   {
-    "i": 151,
-    "t_start": 864.6,
-    "t_end": 870.0,
-    "narration": "Now I'm going to be fair, because I'm not a man who twists things."
+    "i": 149,
+    "t_start": 745.3,
+    "t_end": 750.3,
+    "type": "AVATAR",
+    "narration": "Number two. Practice, and time it. A room you've never rehearsed is a theory."
+  },
+  {
+    "i": 152,
+    "t_start": 761.5,
+    "t_end": 766.1,
+    "type": "SPLIT",
+    "narration": "If your thirty seconds is really two frantic minutes of fumbling, the math turns against you."
   },
   {
     "i": 154,
-    "t_start": 883.1,
-    "t_end": 888.5,
-    "narration": "But notice what it also did. It handed the milk business, top to bottom,"
+    "t_start": 769.6,
+    "t_end": 774.2,
+    "type": "AVATAR",
+    "narration": "And number one. It isn't a lock or a screw or a sheet of film."
   },
   {
-    "i": 158,
-    "t_start": 909.7,
-    "t_end": 914.7,
-    "narration": "Coming up, the food that was the bouillon cube before the bouillon cube."
+    "i": 157,
+    "t_start": 783.8,
+    "t_end": 789.2,
+    "type": "SPLIT",
+    "narration": "first came out in nineteen ninety-eight, and it lays out safe rooms rated for near-absolute protection in two-hundred-fifty-mile-an-hour wind,"
+  },
+  {
+    "i": 159,
+    "t_start": 793.4,
+    "t_end": 799.6,
+    "type": "AVATAR",
+    "narration": "That work traces back to a Texas Tech engineer named Ernst Kiesling, the man they call the father of the safe room, who gave his life to it."
+  },
+  {
+    "i": 161,
+    "t_start": 804.2,
+    "t_end": 809.2,
+    "type": "SPLIT",
+    "narration": "The few minutes when danger is at the door, you can hold. Yourself. In your own house."
   },
   {
     "i": 162,
-    "t_start": 931.3,
-    "t_end": 937.1,
-    "narration": "Cut into squares, dried, kept in a cool dry place, it lasts months to years."
+    "t_start": 809.2,
+    "t_end": 814.2,
+    "type": "AVATAR",
+    "narration": "So who got rich when folks forgot that? The panic-room builders quoting fifty and a hundred thousand dollars."
   },
   {
-    "i": 167,
-    "t_start": 959.7,
-    "t_end": 965.5,
-    "narration": "By the early nineteen-hundreds, companies had figured out how to sell you the cube version,"
+    "i": 165,
+    "t_start": 826.1,
+    "t_end": 831.9,
+    "type": "SPLIT",
+    "narration": "It's just that there's no money in teaching you to drive a three-inch screw, and a great deal of money in scaring you into a vault."
   },
   {
-    "i": 170,
-    "t_start": 977.5,
-    "t_end": 981.7,
-    "narration": "Next, the two that keep meat with almost nothing but fat."
+    "i": 166,
+    "t_start": 831.9,
+    "t_end": 835.3,
+    "type": "AVATAR",
+    "narration": "That's not villainy. That's a market doing what a market does."
+  },
+  {
+    "i": 168,
+    "t_start": 841.5,
+    "t_end": 845.0,
+    "type": "AVATAR",
+    "narration": "Don't try to do all twenty this weekend. Pick one."
+  },
+  {
+    "i": 171,
+    "t_start": 855.3,
+    "t_end": 860.0,
+    "type": "SPLIT",
+    "narration": "Next paycheck, the solid-core door, number nineteen. One thing at a time,"
   },
   {
     "i": 173,
-    "t_start": 995.6,
-    "t_end": 1000.6,
-    "narration": "Air can't reach it, so it keeps for months in a cold cellar."
+    "t_start": 866.1,
+    "t_end": 870.7,
+    "type": "AVATAR",
+    "narration": "Now do something for me. My grandfather's whole approach to a house came from his father,"
   },
   {
     "i": 176,
-    "t_start": 1014.1,
-    "t_end": 1016.4,
-    "narration": "Two left. Number one is close."
+    "t_start": 881.5,
+    "t_end": 884.6,
+    "type": "SPLIT",
+    "narration": "A room they'd have sent the children to."
+  },
+  {
+    "i": 177,
+    "t_start": 884.6,
+    "t_end": 889.6,
+    "type": "AVATAR",
+    "narration": "Tell me down in the comments what your people did and what corner of the country they did it in."
   },
   {
     "i": 179,
-    "t_start": 1027.6,
-    "t_end": 1032.6,
-    "narration": "One part meat to one part fat, by weight. That's the whole formula."
+    "t_start": 894.2,
+    "t_end": 901.1,
+    "type": "SPLIT",
+    "narration": "And speaking of next time, I've been meaning to show you how the old mountain families hardened a house against the cold with no furnace and no power bill,"
+  },
+  {
+    "i": 181,
+    "t_start": 906.9,
+    "t_end": 909.2,
+    "type": "AVATAR",
+    "narration": "That one's coming."
   },
   {
     "i": 183,
-    "t_start": 1049.9,
-    "t_end": 1058.4,
-    "narration": "It is possibly the most calorie-dense shelf-stable food a human being can make with their hands, and it needs no power, no can, no factory."
-  },
-  {
-    "i": 187,
-    "t_start": 1078.4,
-    "t_end": 1086.5,
-    "narration": "The reason is pure chemistry: honey holds under eighteen percent water and sits at a pH around three to four, too dry and too acidic for anything to grow in it."
-  },
-  {
-    "i": 190,
-    "t_start": 1099.3,
-    "t_end": 1105.8,
-    "narration": "Number two. Vinegar. The quiet workhorse behind the pickled eggs, the kraut brine top-off, the shelf full of preserves."
-  },
-  {
-    "i": 194,
-    "t_start": 1124.7,
-    "t_end": 1131.6,
-    "narration": "Number one. Rendered fat. Lard and tallow. Here's why it tops the list, and why it's the perfect ending to this whole story."
-  },
-  {
-    "i": 198,
-    "t_start": 1150.8,
-    "t_end": 1156.5,
-    "narration": "And it is the one an American company set out, on purpose, to replace."
-  },
-  {
-    "i": 202,
-    "t_start": 1173.8,
-    "t_end": 1183.1,
-    "narration": "Within just a few years, Americans were buying it by the tens of millions of cans, and inside a single generation, lard went from the fat in every kitchen to an embarrassing, old-fashioned thing."
-  },
-  {
-    "i": 205,
-    "t_start": 1197.3,
-    "t_end": 1204.6,
-    "narration": "And that, friend, is what all twenty of these were really pointing at. Not one clever trick. A posture."
-  },
-  {
-    "i": 208,
-    "t_start": 1218.4,
-    "t_end": 1224.2,
-    "narration": "That's the whole thing they hoped you'd forget. Not the recipes. The independence underneath them."
-  },
-  {
-    "i": 213,
-    "t_start": 1248.8,
-    "t_end": 1256.1,
-    "narration": "One thing. That's how a pantry starts, and that's how it starts feeling ordinary again. Now do something for me."
-  },
-  {
-    "i": 216,
-    "t_start": 1267.7,
-    "t_end": 1275.4,
-    "narration": "What was their trick? I read them, and whichever old food gets asked about the most, that's the one I take apart, start to finish, in the next deep-dive."
-  },
-  {
-    "i": 219,
-    "t_start": 1289.6,
-    "t_end": 1297.7,
-    "narration": "And since you made it all the way to the end, the folks who run this thing have almost certainly lined up another one of mine right there for you to watch."
-  },
-  {
-    "i": 220,
-    "t_start": 1297.7,
-    "t_end": 1301.9,
-    "narration": "Go on and let it play. I've got a feeling it's one you'll be glad you didn't scroll past."
+    "t_start": 914.6,
+    "t_end": 920.0,
+    "type": "AVATAR",
+    "narration": "and knowing them, it'll be one that sits right beside this. Go ahead and give it a look. I'll see you at the next one."
   }
 ]
