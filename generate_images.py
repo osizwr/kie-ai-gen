@@ -26,7 +26,7 @@ LOG_FILE = "generate_images.log"
 ASPECT_RATIO = "16:9"
 RESOLUTION = "2K"
 
-CONCURRENCY = 3          # parallel images in flight
+CONCURRENCY = 5          # parallel images in flight
 POLL_INTERVAL = 5        # seconds between status checks
 TASK_TIMEOUT = 600       # give up on a single image after 10 min
 MAX_RETRIES = 4          # per HTTP call

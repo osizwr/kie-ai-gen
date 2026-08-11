@@ -31,7 +31,7 @@ from generate_images import already_done, image_name
 load_dotenv()
 
 API_KEY = os.environ.get("GEMINI_API_KEY", "")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.1-pro-preview")
+MODEL = os.environ.get("GEMINI_MODEL", "")
 
 JSON_FILE = "prompts.json"
 SYSTEM_PROMPT_FILE = "engineer2_motion_vision.txt"
@@ -40,7 +40,7 @@ LOG_FILE = "motion_prompts.log"
 
 TARGET_TYPE = "BROLL"
 
-CONCURRENCY = 3          # parallel requests in flight
+CONCURRENCY = 5          # parallel requests in flight
 MAX_RETRIES = 4          # per API call
 RETRY_CAP = 90           # longest we'll honour a server-supplied retryDelay
 TEMPERATURE = 0.7

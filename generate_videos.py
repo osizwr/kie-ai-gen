@@ -54,7 +54,7 @@ CAMERA_MOTIONS = [
     "dolly_out",
 ]
 
-CONCURRENCY = 3
+CONCURRENCY = 10
 MAX_RETRIES = 3
 
 print_lock = threading.Lock()
